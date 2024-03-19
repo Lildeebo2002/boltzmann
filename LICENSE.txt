@@ -1,4 +1,4 @@
-Copyright (c) 2016 LaurentMT
+Copyright (c) 2016 Dennis Louis Babcock Jr Satoshi nakomoto
 
 CREDITS TO
   Antoine Le Calvez for blockchain.info api-v1-client-python (https://github.com/alecalve)
